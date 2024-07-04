@@ -1,4 +1,4 @@
-# How to Execute from Terraform Cloud
+# To Execute from Terraform Cloud
 
 ## 1. Set Up Terraform Cloud Workspace:
 
