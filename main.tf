@@ -24,6 +24,7 @@ variable "region_name"{
 resource "aws_instance" "myec2" {
   ami                    = "ami-06c68f701d8090592"
   instance_type          = "t2.micro"
+  subnet_id     = "subnet-01064b369aa9021eb"
   tags = {
     Name = "terraform1"
   }
