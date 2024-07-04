@@ -1,4 +1,4 @@
-# This is terraform script which is executed from Terraform Cloud
+# This is terraform script which is executed from Terraform Cloud (UI)
 
 ## Define Environment Variables in Terraform Cloud:
 Go to your workspace in Terraform Cloud.
